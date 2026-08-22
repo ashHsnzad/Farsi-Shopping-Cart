@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "rec1JZlfCIBOPdcT2",
+      "title": "سامسونگ گلکسی S8",
+      "price": 28500000,
+      "img": "https://www.course-api.com/images/cart/phone-1.png",
+      "amount": 1
+    },
+    {
+      "id": "recB6qcHPxb62YJ75",
+      "title": "گوگل پیکسل 10 pro",
+      "price": 40700000,
+      "img": "https://www.course-api.com/images/cart/phone-2.png",
+      "amount": 1
+    },
+    {
+      "id": "recdRxBsE14Rr2VuJ",
+      "title": "شیائومی ریدمی نوت 2",
+      "price": 52300000,
+      "img": "https://www.course-api.com/images/cart/phone-3.png",
+      "amount": 1
+    },
+    {
+      "id": "recwTo160XST3PIoW",
+      "title": "سامسونگ گلکسی s7",
+      "price": 63500000,
+      "img": "https://www.course-api.com/images/cart/phone-4.png",
+      "amount": 1
+    }
+  ]
+}
