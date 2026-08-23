@@ -5,6 +5,9 @@ A responsive shopping cart application built with React and Vite.
 The project is inspired by John Smilga's React Course Cart project, with changes to the UI, architecture, state management, responsiveness, and Persian localization.
 
 ## Screenshots and Demo
+## Live Demo
+
+🔗 [View the live app](https://shopping-cart-hxhr.onrender.com/)
 
 ![Demo](public/CartGif.gif)
 
