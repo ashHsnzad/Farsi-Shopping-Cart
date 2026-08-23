@@ -204,7 +204,7 @@ Cart
   margin-bottom: 3rem;
 }
 .empty-cart {
-  color: var(dark-gray);
+  color: var(--dark-gray);
   margin-top: 10rem;
   text-align: center;
   font-weight: 700;
