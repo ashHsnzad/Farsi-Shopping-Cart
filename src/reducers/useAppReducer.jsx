@@ -13,7 +13,7 @@ const DECREASE = "DECREASE";
 const LOADING = "LOADING";
 const DISPLAY_ITEMS = "DISPLAY_ITEMS";
 
-const url = "http://localhost:5000/products";
+const url = `${import.meta.env.VITE_API_URL}/products`;
 
 const useAppReducer = () => {
   const [state, dispatch] = useReducer(reducer, defaultState);
